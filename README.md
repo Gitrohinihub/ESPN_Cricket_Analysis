@@ -71,6 +71,7 @@ This project solves that problem by:
 
 ![image Link](https://github.com/Gitrohinihub/ESPN_Cricket_Analysis/blob/766377647dc08177888a3abd3d49dec2bac1f872/Fielding%20Page%20.png)
 
+Powerbi app Project Link : https://app.powerbi.com/links/Epy337SPWN?ctid=c9b30289-5c60-41dc-85c2-d8862dea8925&pbi_source=linkShare
 ---
 
 📈 Key Insights
