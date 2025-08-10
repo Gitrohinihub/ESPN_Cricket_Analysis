@@ -54,16 +54,22 @@ This project solves that problem by:
   - Runs scored
   - Strike Rate trends
   - Boundary counts
+
+![image Link](https://github.com/Gitrohinihub/ESPN_Cricket_Analysis/blob/766377647dc08177888a3abd3d49dec2bac1f872/Batting.png)
+
 - **Bowling Dashboard**:
   - Wickets taken
   - Economic trends
   - Best bowling figures
+
+ ![image Link](https://github.com/Gitrohinihub/ESPN_Cricket_Analysis/blob/766377647dc08177888a3abd3d49dec2bac1f872/Bowling%20page%20.png)
+    
 - **Fielding Dashboard**:
   - Catches
   - Stumpings
   - Dismissals per innings
 
-> 📷 Screenshots of dashboards can be found in `/screenshots/`
+![image Link](https://github.com/Gitrohinihub/ESPN_Cricket_Analysis/blob/766377647dc08177888a3abd3d49dec2bac1f872/Fielding%20Page%20.png)
 
 ---
 
