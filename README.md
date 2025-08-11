@@ -107,9 +107,7 @@ Powerbi app Project Link : https://app.powerbi.com/links/Epy337SPWN?ctid=c9b3028
 ---
 
 📫 Contact
-💼 LinkedIn: https://linkedin.com/in/rohini-singh-8a97a1229
-
-💻 GitHub: Gitrohinihub
+💼 LinkedIn: [Rohini Singh](https://linkedin.com/in/rohini-singh-8a97a1229)
 
 ✉️ Email: miss.rohini09coder@gmail.com
 
